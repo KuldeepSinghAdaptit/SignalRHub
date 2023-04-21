@@ -1,0 +1,11 @@
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\SignalRHub.API.exe
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\SignalRHub.API.dll
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\SignalRHub.API.deps.json
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\SignalRHub.API.runtimeconfig.json
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\SignalRHub.API.pdb
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\POC\SignalR\SignalRHub\SignalRHub\SignalRHub.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
